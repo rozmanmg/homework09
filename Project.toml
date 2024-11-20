@@ -1,0 +1,6 @@
+[deps]
+IJulia = "7073ff75-c697-5162-941a-fcdaad2a7d2a"
+PyPlot = "d330b81b-6aea-500a-939a-2ce795aea3ee"
+OrdinaryDiffEqTsit5 = "b1df2697-797e-41e3-8120-5422d3b24e4a"
+ProgressMeter = "92933f4c-e287-5a05-a399-4b506db050ca"
+Sobol = "ed01d8cd-4d21-5b2a-85b4-cc3bdc58bad4"
